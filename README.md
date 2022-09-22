@@ -1,3 +1,10 @@
+# Kialta
+### Сайт для юридической фирмы на Node js и React
+
+Команда разработчиков (я по центру):
+![image](https://user-images.githubusercontent.com/60402289/191658214-69572652-7bda-4a06-84eb-dcedddbfd0c2.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
