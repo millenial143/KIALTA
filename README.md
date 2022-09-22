@@ -1,7 +1,7 @@
 # Kialta
 ### Сайт для юридической фирмы на Node js и React
 
-Команда разработчиков (я по центру):
+Команда разработчиков (я слева):
 ![image](https://user-images.githubusercontent.com/60402289/191658214-69572652-7bda-4a06-84eb-dcedddbfd0c2.png)
 
 
